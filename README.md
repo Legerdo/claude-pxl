@@ -7,6 +7,9 @@ Built for AI agents (it ships as a ready-made [agent skill](#use-it-with-an-ai-a
 for people too. No runtime dependencies, no build step: just Node ≥ 22.18.
 
 <p>
+  <img src="docs/gallery/no_magic_night.gif" width="100%" alt="Animated witch's cottage at night: bubbling cauldron, fireplace, cat and frog">
+</p>
+<p>
   <img src="docs/gallery/comet_repair.png" width="49%" alt="Comet Repair shop scene">
   <img src="docs/gallery/gull_and_gill.png" width="49%" alt="Gull &amp; Gill bait shop scene">
   <img src="docs/gallery/moon_buns_3d.png" width="49%" alt="Moon Buns bakery scene">

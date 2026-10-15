@@ -13,6 +13,7 @@ mkdirSync(out, { recursive: true });
 
 // [example file, asset, target width in px]
 const shots: [string, string, number][] = [
+  ["no_magic.px.js", "no_magic_night", 768],
   ["shop.px.js", "comet_repair", 576],
   ["tackle.px.js", "gull_and_gill", 576],
   ["moon_bakery_3d.px.js", "moon_buns_3d", 576],
